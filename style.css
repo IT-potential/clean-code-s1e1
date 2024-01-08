@@ -27,7 +27,7 @@ body {
 .centered_element {
     display: block;
     width: 500px;
-    margin: 0 auto 0;
+    margin: 20px auto 0;
 }
 
 .task {
@@ -102,6 +102,8 @@ label[for='new-task'] {
     display: block;
     margin: 0 0 20px;
 }
+
+
 
 #new_task {
     width: 318px;
