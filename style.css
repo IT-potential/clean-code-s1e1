@@ -103,7 +103,7 @@ label[for='new-task'] {
     margin: 0 0 20px;
 }
 
-input#new_task {
+#new_task {
     width: 318px;
 }
 
@@ -147,7 +147,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed_tasks label {
+#completed_tasks label {
     text-decoration: line-through;
     color: #888;
 }
